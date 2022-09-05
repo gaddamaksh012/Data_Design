@@ -1,0 +1,70 @@
+15:16:01-Jul-27-2022,ETL Process starts from here : 
+15:16:01-Jul-27-2022,Extraction phase start here: 
+15:16:01-Jul-27-2022,Extraction phase ends here: 
+15:16:01-Jul-27-2022,Transforamation phase starts here
+15:16:01-Jul-27-2022,Transforamation phase ends here
+15:16:01-Jul-27-2022,Loading process starts here
+15:16:01-Jul-27-2022,Loading process ends here
+15:19:55-Jul-27-2022,ETL Process starts from here : 
+15:19:55-Jul-27-2022,Extraction phase start here: 
+15:19:55-Jul-27-2022,Extraction phase ends here: 
+15:19:55-Jul-27-2022,Transforamation phase starts here
+15:19:55-Jul-27-2022,Transforamation phase ends here
+15:19:55-Jul-27-2022,Loading process starts here
+15:19:55-Jul-27-2022,Loading process ends here
+15:22:39-Jul-27-2022,ETL Process starts from here : 
+15:22:39-Jul-27-2022,Extraction phase start here: 
+15:24:55-Jul-27-2022,ETL Process starts from here : 
+15:24:55-Jul-27-2022,Extraction phase start here: 
+15:24:55-Jul-27-2022,Extraction phase ends here: 
+15:24:55-Jul-27-2022,Transforamation phase starts here
+15:24:55-Jul-27-2022,Transforamation phase ends here
+15:24:55-Jul-27-2022,Loading process starts here
+15:24:55-Jul-27-2022,Loading process ends here
+12:25:25-Jul-29-2022,ETL Process starts from here : 
+12:25:25-Jul-29-2022,Extraction phase start here: 
+12:25:25-Jul-29-2022,Extraction phase ends here: 
+12:25:25-Jul-29-2022,Transforamation phase starts here
+12:25:25-Jul-29-2022,Transforamation phase ends here
+12:25:25-Jul-29-2022,Loading process starts here
+12:25:25-Jul-29-2022,Loading process ends here
+12:26:56-Jul-29-2022,ETL Process starts from here : 
+12:26:56-Jul-29-2022,Extraction phase start here: 
+12:27:09-Jul-29-2022,ETL Process starts from here : 
+12:27:09-Jul-29-2022,Extraction phase start here: 
+12:27:31-Jul-29-2022,ETL Process starts from here : 
+12:27:31-Jul-29-2022,Extraction phase start here: 
+12:27:40-Jul-29-2022,ETL Process starts from here : 
+12:27:40-Jul-29-2022,Extraction phase start here: 
+12:28:34-Jul-29-2022,ETL Process starts from here : 
+12:28:34-Jul-29-2022,Extraction phase start here: 
+12:29:46-Jul-29-2022,ETL Process starts from here : 
+12:29:46-Jul-29-2022,Extraction phase start here: 
+12:30:39-Jul-29-2022,ETL Process starts from here : 
+12:30:39-Jul-29-2022,Extraction phase start here: 
+12:30:39-Jul-29-2022,Extraction phase ends here: 
+12:30:39-Jul-29-2022,Transforamation phase starts here
+12:30:39-Jul-29-2022,Transforamation phase ends here
+12:30:39-Jul-29-2022,Loading process starts here
+12:30:39-Jul-29-2022,Loading process ends here
+12:31:28-Jul-29-2022,ETL Process starts from here : 
+12:31:28-Jul-29-2022,Extraction phase start here: 
+12:31:28-Jul-29-2022,Extraction phase ends here: 
+12:31:28-Jul-29-2022,Transforamation phase starts here
+12:31:28-Jul-29-2022,Transforamation phase ends here
+12:31:28-Jul-29-2022,Loading process starts here
+12:31:28-Jul-29-2022,Loading process ends here
+12:32:20-Jul-29-2022,ETL Process starts from here : 
+12:32:20-Jul-29-2022,Extraction phase start here: 
+12:32:20-Jul-29-2022,Extraction phase ends here: 
+12:32:20-Jul-29-2022,Transforamation phase starts here
+12:32:20-Jul-29-2022,Transforamation phase ends here
+12:32:20-Jul-29-2022,Loading process starts here
+12:32:20-Jul-29-2022,Loading process ends here
+12:33:19-Jul-29-2022,ETL Process starts from here : 
+12:33:19-Jul-29-2022,Extraction phase start here: 
+12:33:19-Jul-29-2022,Extraction phase ends here: 
+12:33:19-Jul-29-2022,Transforamation phase starts here
+12:33:19-Jul-29-2022,Transforamation phase ends here
+12:33:19-Jul-29-2022,Loading process starts here
+12:33:19-Jul-29-2022,Loading process ends here
