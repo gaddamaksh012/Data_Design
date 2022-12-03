@@ -68,3 +68,10 @@
 12:33:19-Jul-29-2022,Transforamation phase ends here
 12:33:19-Jul-29-2022,Loading process starts here
 12:33:19-Jul-29-2022,Loading process ends here
+11:52:12-Sep-08-2022,ETL Process starts from here : 
+11:52:12-Sep-08-2022,Extraction phase start here: 
+11:52:12-Sep-08-2022,Extraction phase ends here: 
+11:52:12-Sep-08-2022,Transforamation phase starts here
+11:52:12-Sep-08-2022,Transforamation phase ends here
+11:52:12-Sep-08-2022,Loading process starts here
+11:52:12-Sep-08-2022,Loading process ends here

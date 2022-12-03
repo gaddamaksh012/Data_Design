@@ -62,7 +62,7 @@ def trans(data):
 
 # Loading Phase
 
-def Loading(traget_file,extracted_file):
+def Loading(extracted_file):
     extracted_file.to_csv(traget_file)
 
 # logging gphase
@@ -77,21 +77,18 @@ def logging(message):
 
 
 logging("ETL Process starts from here : ")
-
 logging("Extraction phase start here: ")
 
 exicutes()
 
 logging("Extraction phase ends here: ")
-
 logging("Transforamation phase starts here")
 
 trans(extracted_file)
 
 logging("Transforamation phase ends here")
-
 logging("Loading process starts here")
 
-Loading(traget_file,extracted_file)
+Loading(extracted_file)
 
 logging("Loading process ends here")
