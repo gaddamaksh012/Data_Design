@@ -1,7 +1,5 @@
 import json
-import pandas as pd 
-import os
-#this is for file handling
+
 json_string =  '{"name" : "GeeksforGeeks", "Topic" : "Json to String", "Method": 1}'
 
 data = json.loads(json_string)
